@@ -1,3 +1,6 @@
 First Practical
+HEAD
 THIS CHANGE FROM MAIN BRANCH
+This change is THIS LINE IS FOR  GENERATING CONFLCT
+test
 Changing and merging with code.
